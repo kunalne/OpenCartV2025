@@ -1,1 +1,8 @@
 Hay there, This is directly created inside Git hub Repo and I need to pull it into my workspace...
+Now  Here only I made some changes in untracked file
+
+Untracked 
+	--> Add --> Tracked
+		 --> Commit --> File/code file moves to Local rep Git
+		 	--> Assume that we had made a connecting between Local repo and Remote repo Git hub
+		 			--> we push to remote repo Git hub
